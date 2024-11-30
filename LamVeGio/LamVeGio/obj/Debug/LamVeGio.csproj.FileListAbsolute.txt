@@ -1,0 +1,11 @@
+D:\winform\LamVeGio\LamVeGio\bin\Debug\LamVeGio.exe.config
+D:\winform\LamVeGio\LamVeGio\bin\Debug\LamVeGio.exe
+D:\winform\LamVeGio\LamVeGio\bin\Debug\LamVeGio.pdb
+D:\winform\LamVeGio\LamVeGio\obj\Debug\LamVeGio.csproj.AssemblyReference.cache
+D:\winform\LamVeGio\LamVeGio\obj\Debug\LamVeGio.csproj.SuggestedBindingRedirects.cache
+D:\winform\LamVeGio\LamVeGio\obj\Debug\LamVeGio.Form1.resources
+D:\winform\LamVeGio\LamVeGio\obj\Debug\LamVeGio.Properties.Resources.resources
+D:\winform\LamVeGio\LamVeGio\obj\Debug\LamVeGio.csproj.GenerateResource.cache
+D:\winform\LamVeGio\LamVeGio\obj\Debug\LamVeGio.csproj.CoreCompileInputs.cache
+D:\winform\LamVeGio\LamVeGio\obj\Debug\LamVeGio.exe
+D:\winform\LamVeGio\LamVeGio\obj\Debug\LamVeGio.pdb
